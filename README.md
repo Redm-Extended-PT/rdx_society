@@ -1,7 +1,7 @@
 # rdx_society
 
 Society management for RDX. Adds employee management (hire, fire, promote / demote, change salary), society bank accounts and money washing. It's crucial that this script gets started before all resources that utilize societies do, or else many things will go wrong.
-
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
 ## Requirements
 - [cron](https://github.com/RalivTV/cron)
 - [rdx_addonaccount](https://github.com/Redm-Extended-PT/rdx_addonaccount)
